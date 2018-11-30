@@ -1,4 +1,5 @@
 ##This configuration will start the web container and the test container with docker-compose up;
+language: generic
 version: '3'
 
 services:
